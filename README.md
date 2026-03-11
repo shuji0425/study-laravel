@@ -86,3 +86,23 @@ php artisan migrate
 
 <br>
 Laravelの初期画面が表示できます。
+
+## 作業の進め方
+
+1. ブランチ切り替え
+
+```bash
+git checkout -b feature/aaaa
+```
+
+**aaaには、自由な名前を入れてください。**
+
+<br>
+
+2. 切り替えたブランチをgit hub へプッシュ
+
+```bash
+git push origin feature/aaaa
+```
+
+**1.で作成したブランチ名をoriginの後に入力してください。**
