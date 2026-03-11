@@ -6,7 +6,7 @@
 1. ターミナルにてgit cloneを行う
 
 ```bash
-git clone https://github.com/shuji0425/docker-test.git
+git clone https://github.com/shuji0425/study-laravel.git
 ```
 
 <br>
